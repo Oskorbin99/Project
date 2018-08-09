@@ -79,6 +79,7 @@
     <instance objName="o_info" x="192" y="352" name="inst_11C2EA76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_draw" x="224" y="352" name="inst_168D1AC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_hero" x="448" y="160" name="inst_8F521987" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_rat" x="256" y="160" name="inst_C14D6326" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles_1" x="192" y="544" w="32" h="32" xo="64" yo="32" id="10000041" name="inst_BA7C6A47" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
