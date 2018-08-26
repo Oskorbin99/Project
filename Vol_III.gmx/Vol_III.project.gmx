@@ -75,7 +75,7 @@
     <objects name="obstacles">
       <object>objects\o_wall</object>
     </objects>
-    <object>objects\object13</object>
+    <object>objects\gfg</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_main_menu</room>
