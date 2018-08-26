@@ -75,6 +75,10 @@
     <objects name="obstacles">
       <object>objects\o_wall</object>
     </objects>
+<<<<<<< HEAD
+    <object>objects\object13</object>
+=======
+>>>>>>> master
   </objects>
   <rooms name="rooms">
     <room>rooms\r_main_menu</room>
